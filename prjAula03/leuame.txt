@@ -1,0 +1,1 @@
+Nessa aula aprendemos a usar o import Java Scanner (comando para ler os valores)
