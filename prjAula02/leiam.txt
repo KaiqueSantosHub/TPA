@@ -1,0 +1,1 @@
+Nessa pasta contém exercícios para a pratíca de conceitos do Java
