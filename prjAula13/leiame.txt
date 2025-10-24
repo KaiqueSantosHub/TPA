@@ -1,1 +1,1 @@
-Exercício Próxima data 
+Exercício de verificação da próxima data que usuário digitou.
