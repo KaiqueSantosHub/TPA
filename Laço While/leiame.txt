@@ -1,0 +1,1 @@
+Essa pasta contém aulas introdutórias ao Laço de repetição While, com exercícios de fixação.
