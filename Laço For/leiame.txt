@@ -1,1 +1,1 @@
-
+Essa pasta contém arquivos de introduçãa ao laço de repetição For/Para, com exercícios de fixação.
