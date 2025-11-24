@@ -1,1 +1,1 @@
-
+Contém aulas básicas de Java, como: importar,declarar variáveis e alguns exercícios de fixação 
